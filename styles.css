@@ -1,0 +1,36 @@
+
+body {
+    background-color: rgb(212, 186, 153);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    border: solid;
+    //border-style: double;
+    width: 40%;
+}
+h1{
+    background-color: blueviolet;
+    width: 60%;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-bottom: 10px;
+    border: solid;
+    border-color: blueviolet;
+    border-radius: 20px;
+}
+
+input[type="number"] {
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 25px;
+    border-style: dotted;
+}
+
+#message {
+    margin-top: 10px;
+    font-weight: bold;
+}
